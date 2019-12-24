@@ -1,0 +1,1 @@
+Archiving my assignment solutions from [Prof. Parag Singla's](http://www.cse.iitd.ac.in/~parags/) course on [undergraduate Machine Learning](http://www.cse.iitd.ac.in/~parags/teaching/2015/sp15/col774/).
