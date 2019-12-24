@@ -1,0 +1,2 @@
+q1: Extract the data from the zipped data. Since the preprocessed data was huge in size, it was deleted for submission.
+q4: PrinComp.mat file was deleted as it was 46.9MB. Run Matlab again to get started.

@@ -1,0 +1,1 @@
+Since the file size was exceeding, the dataset of the second question - mnist_all.mat file was removed. Please restore it into the folder q2 before running any code of that question.
